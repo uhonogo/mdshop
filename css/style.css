@@ -1,7 +1,7 @@
 .sait-content{width:100%;margin:0;padding:0}
 .copirait{text-align:center;font-size:18pt;color:#333;width:80%;padding-bottom:40px;min-height:250px;margin:0 auto;padding-top:10px;line-height:1.5}
-.copirait header{width:50%;display:block;padding-top:20px;font-weight:400;font-size:28pt;text-align:center;margin:0 auto 50px;color:#cd5555}
-header a{color:red;display:inline-block;padding-bottom:10px;cursor:default;border-bottom:2px solid #4b2732}
+.copirait h1{width:50%;display:block;padding-top:20px;font-weight:300;font-size:28pt;text-align:center;margin:0 auto 50px;color:#cd5555}
+h1 a{color:red;display:inline-block;padding-bottom:10px;cursor:default;border-bottom:2px solid #4b2732}
 .about-category{text-align:center;margin:0 auto;width:80%;min-height:400px;font-size:0}
 .column{display:inline-block;width:33.33%;padding-top:25px;height:350px;font-size:17pt}
 .photografy{margin:0 auto;height:100%;width:90%;overflow:hidden}
